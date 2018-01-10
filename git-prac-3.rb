@@ -7,3 +7,4 @@ puts var1*var1 #=> 25
 
 
 var1 = 5
+
