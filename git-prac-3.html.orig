@@ -25,9 +25,13 @@ line 23 edit (local)
 <<<<<<< HEAD
 line 25 edit (local)
 
-
+<<<<<<< HEAD
+line 28 edit (local)
 =======
-line 25 edit (remote)
+line 28 edit (remote)
+>>>>>>> 52f96c8fd74b44f90ef7919fb0f3c3ace9bffe87
+=======
+
 	
 	
 >>>>>>> ae63daeb5e0a323dba98d8f1323ba880497bc258
